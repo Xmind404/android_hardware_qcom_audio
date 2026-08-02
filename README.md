@@ -11,7 +11,7 @@ This project is based on the original work by:
 - LineageOS
 
 Original repository:
-https://github.com/Lineage-BBKey2/android_device_blackberry_athena
+https://github.com/Lineage-BBKey2/android_hardware_qcom_audio
 
 ## Disclaimer
 
